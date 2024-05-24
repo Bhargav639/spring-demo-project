@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="227f0060-9abf-4b4a-a353-94ce06269797" name="Changes" comment="Added filter to get bookmarks by title">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/Testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/BookmarkerApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/api/BookmarkController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/Bookmark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarksDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/resources/db/migration/h2/V1__create_bookmarks_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/main/resources/db/migration/h2/V2__update_bookmarks_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/test/java/com/sivalabs/bookmarker/BookmarkerApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/test/java/com/sivalabs/bookmarker/TestBookmarkerApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookmarker-api/src/test/java/com/sivalabs/bookmarker/api/BookmarkControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/api/BookmarkController.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/api/BookmarkController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bhargav639&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bhargav639/spring-demo-project.git&quot;,
+    &quot;accountId&quot;: &quot;f2ade22b-32f4-42ac-8edb-8a31720bc035&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2grtTWDnoI6jqIA7x623oanLjDu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BookmarkerApiApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/bhargavvallabhaneni/workspace/spring-demo-project",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BookmarkerApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sivalabs.bookmarker.BookmarkerApiApplication" />
+      <module name="bookmarker-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sivalabs.bookmarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookmarkerApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227f0060-9abf-4b4a-a353-94ce06269797" name="Changes" comment="" />
+      <created>1716467531123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716467531123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated maven.yml">
+      <option name="closed" value="true" />
+      <created>1716469485546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716469485546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated maven.yml" />
+    <MESSAGE value="Added filter to get bookmarks by title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added filter to get bookmarks by title" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkService.java</url>
+          <line>17</line>
+          <properties class="com.sivalabs.bookmarker.domain.BookmarkService" method="getBookmarks">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bookmarker-api/src/main/java/com/sivalabs/bookmarker/api/BookmarkController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
